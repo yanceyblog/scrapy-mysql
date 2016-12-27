@@ -12,7 +12,7 @@ scrapy支持将数据存储到文件,例如csv、jl、jsonlines、pickle、marsh
 
 打开pycharm File-->Default Settings-->Project interpreter点击左下角的“+”，搜索PyMysql，如图：
 
-<img src="http://img.blog.csdn.net/20161227151909965?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuY2V5X2Jsb2c=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width = "560" align=center />
+<img src="http://img.blog.csdn.net/20161227151909965?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuY2V5X2Jsb2c=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width = "640" align=center />
 
 点击安装install package，如果无法安装可以选择将上面的install to user‘s site...勾选安装到Users目录下。
 
@@ -108,7 +108,7 @@ root@ubuntu:~# /etc/init.d/mysql restart
 ----------
 ## 在mysql中创建好四个item表
 
-<img src="http://img.blog.csdn.net/20161227152018574?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuY2V5X2Jsb2c=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width = "480" align=center />
+<img src="http://img.blog.csdn.net/20161227152018574?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuY2V5X2Jsb2c=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width = "640" align=center />
 
 ## 创建项目
 
@@ -329,6 +329,6 @@ class DoubanPipeline(object):
 ## 运行爬虫
 pycharm运行run.py，mysql数据库表中已经存好了我们要的数据。
 
-<img src="http://img.blog.csdn.net/20161227152104697?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuY2V5X2Jsb2c=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width = "560" align=center />
+<img src="http://img.blog.csdn.net/20161227152104697?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuY2V5X2Jsb2c=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width = "640" align=center />
 
 
