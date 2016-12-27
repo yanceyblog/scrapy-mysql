@@ -1,7 +1,7 @@
 # 爬虫数据存储实例
 [TOC]
 
-> 本章将实现数据存储到数据库的实例。
+> 本章将实现数据存储到数据库的实例。博客地址http://blog.csdn.net/yancey_blog/article/details/53895821
 
 ## 数据存储
 scrapy支持将数据存储到文件,例如csv、jl、jsonlines、pickle、marshal、json、xml，少量的数据存储到数据库还行，如果超大量的数据存储到文件（当然图片还是要存文件的），就显得不太友好，毕竟这些数据要为我所用。
